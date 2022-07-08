@@ -61,7 +61,8 @@ About #Cloudnloud
 </a>  
   
 
-Mail - Vijay@cloudnloud.com
+Mail-Vijay Balan - Vijay@cloudnloud.com
+Mail - Kannammal - Kannam.87@gmail.com
   
 ## join our Discord Channel
 
