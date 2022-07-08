@@ -3,17 +3,14 @@ I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/vijaystack/)** ; ak
 
 Born and brought up in Chennai** .Currently working in Kyndryl India Pvt Ltd  as an Risk and Compliance Manager.
 
-- :YouTube: I am helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
-- :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
+I am proud to be a part of Cloudnloud Communinity mentored & guided by Vijay Balakrishnan
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannammal-g-4211832a/)**  | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
+- :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+- :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-# My Life Story
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannammal-g-4211832a/)**  | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/kannammalg)
 
-[![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
-
-
-[![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
+About #Cloudnloud
 
 - :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
 
@@ -22,7 +19,7 @@ Born and brought up in Chennai** .Currently working in Kyndryl India Pvt Ltd  as
 - :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐂𝐥𝐞𝐚𝐧𝐞𝐫 𝐭𝐨 𝐑𝐞-𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
 
 --- 
-# :tv: YouTube - Latest Videos
+# :tv: Cloudnloud YouTube - Latest Videos
 
 - [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
@@ -40,7 +37,7 @@ Born and brought up in Chennai** .Currently working in Kyndryl India Pvt Ltd  as
 - [Cloud General Queries](https://www.youtube.com/watch?v=uIMKuwMP5Uc&list=PLh_VNk4-EHTMj1jcedUnuDNT2Xz-rJ1sy)
 - [IT Job Questions Confidence](https://www.youtube.com/playlist?list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
 
-## Connect with me  
+## Connect with Vijay Balan  
 <a href="https://github.com/cloudnloud" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
