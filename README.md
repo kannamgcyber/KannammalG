@@ -14,7 +14,7 @@ Technical Interest (s): Operating System : Windows, UNIX, AIX Applications: Db2,
 
 About me: I love to Learn new things be it small or big. Since my career start I have been supporting different team, multiple projects, different roles & responsibilities, My tasks or responsibilities may vary time to time however the thought of learning new things never vanished. I am a great Team player and influencer who influenced team for giving best out of them. I never said No to anything I try fail however never gave up. My main objective of my career is to Grow and Let my Team & Others Grow towards the Success..
 
-I am proud to be a part of Cloudnloud Communinity mentored & guided by Vijay Balakrishnan
+I am proud to be a part of Cloudnloud Communinity mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Core Team supporting his Vision.
 
 About Cloudnloud & Vijay -
 - :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
