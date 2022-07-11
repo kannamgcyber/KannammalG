@@ -3,14 +3,24 @@ I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/vijaystack/)** ; ak
 
 Born and brought up in Chennai** .Currently working in Kyndryl India Pvt Ltd  as an Risk and Compliance Manager.
 
+About me:
+
+I am born and brought up in chennai in a Middle class family, completed my schooling in Government Girls Higher Secondary School - Guduvancheri, did college BSC Computer Science in SDNB Vaishnava College - Chrompet and got placement in TCS as Graduate Trainee in 2008.
+
+Started my career in TCS as Service Desk agent and promoted as Service Desk lead in a year- joined HCL in 2011 in Identity Access Management Team and promoted as Shift Lead/Reporting Manager till my tenure in HCL (2014). Joined EMC2 in 2014 supporting in L2- Identity Access Management supporting complete IAM Team across Geo.
+In 2015 joined IBM as Technical Services lead - Identity Access Management as a SME. Moved to internal testing /review team in 2017 and now supporting Risk and Compliance Team Globally and promoted as Manager for Managing the Internal Control process Testing team and supporting Risk & Compliance Globally from India.
+
+Technical Interest (s): Operating System : Windows, UNIX, AIX Applications: Db2, Oracle (administration) VMware.
+
+About me: I love to Learn new things be it small or big. Since my career start I have been supporting different team, multiple projects, different roles & responsibilities, My tasks or responsibilities may vary time to time however the thought of learning new things never vanished. I am a great Team player and influencer who influenced team for giving best out of them. I never said No to anything I try fail however never gave up. My main objective of my career is to Grow and Let my Team & Others Grow towards the Success..
+
 I am proud to be a part of Cloudnloud Communinity mentored & guided by Vijay Balakrishnan
 
+About Cloudnloud & Vijay -
 - :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 - :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannammal-g-4211832a/)**  | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/kannammalg)
-
-About #Cloudnloud
 
 - :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
 
@@ -62,6 +72,8 @@ About #Cloudnloud
   
 
 Mail-Vijay Balan - Vijay@cloudnloud.com
+
+
 Mail - Kannammal - Kannam.87@gmail.com
   
 ## join our Discord Channel
