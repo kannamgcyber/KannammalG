@@ -20,7 +20,8 @@ About Cloudnloud & Vijay -
 - :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 - :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannammal-g-4211832a/) [Twitter](https://twitter.com/kannammal.g1) | [Instagram](https://www.instagram.com/kannammalg) | [Facebook] (https://www.facebook.com/kannam.gk)**
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannammal-g-4211832a/) [Twitter](https://twitter.com/kannammal.g1) | [Instagram](https://www.instagram.com/kannammalg) | **[Facebook] (https://www.facebook.com/kannam.gk)
+
 
 - :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
 
