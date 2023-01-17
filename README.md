@@ -31,6 +31,8 @@ In 2015 joined IBM as Technical Services lead - Identity Access Management as a 
 - Project Management
 - IT Security Audit
 - ISO Audit and Certification
+- People Management
+- Team Management
 
 **About me:** 
 
