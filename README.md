@@ -3,7 +3,7 @@ I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; a
 
 Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Risk and Compliance Manager**.
 
-About me:
+**A Little About my person and career history**
 
 I am born and brought up in chennai in a Middle class family, completed my schooling in Government Girls Higher Secondary School - Guduvancheri, did college BSC Computer Science in SDNB Vaishnava College - Chrompet and got placement in TCS as Graduate Trainee in 2008.
 
@@ -36,7 +36,7 @@ In 2015 joined IBM as Technical Services lead - Identity Access Management as a 
 
 I love to Learn new things be it small or big. Since my career start I have been supporting different team, multiple projects, different roles & responsibilities, My tasks or responsibilities may vary time to time however the thought of learning new things never vanished. I am a great Team player and influencer who influenced team for giving best out of them. I never said No to anything I try fail however never gave up. My main objective of my career is to Grow and Let my Team & Others Grow towards the Success..
 
-I am proud to be a part of **[Cloudnloud Communinity] (https://www.linkedin.com/company/cloudnloud/)** mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Core Team supporting his Vision & Mission.
+I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/company/cloudnloud/)** mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Core Team supporting his Vision & Mission.
 
 
 **About Cloudnloud & Vijay -**
