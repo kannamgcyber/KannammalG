@@ -42,7 +42,7 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 
 
 **About Cloudnloud & Vijay -**
-- :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+- YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
 
 - :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
