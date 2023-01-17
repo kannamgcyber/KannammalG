@@ -1,7 +1,7 @@
 I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; aka **Kannammal**. 
 
 
-Born and brought up in Chennai** .Currently working in Kyndryl India Pvt Ltd  as an Risk and Compliance Manager.
+Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Risk and Compliance Manager**.
 
 About me:
 
@@ -28,16 +28,16 @@ About Cloudnloud & Vijay -
 - :Blogs: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://blog.cloudnloud.com/)**.
 
 - 
-# :Blog: Cloudnloud - My Latest Blogs
+## Blog: Cloudnloud - My Latest Blogs
 
 
 - https://blog.cloudnloud.com/cyber-security-series
 - https://blog.cloudnloud.com/cyber-security-series-1
 
 
-# :Blog - Cloudnloyd - Identity Access Management Series Blogs
+## Blog - Cloudnloyd - Identity Access Management Series Blogs
 
--https://blog.cloudnloud.com/series/iam-auth-deep-dive-series
+- https://blog.cloudnloud.com/series/iam-auth-deep-dive-series
 
 
 
