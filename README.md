@@ -18,8 +18,10 @@ In 2015 joined IBM as Technical Services lead - Identity Access Management as a 
 
 I am proud to be a part of Cloudnloud Communinity mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Core Team supporting his Vision.
 
-**About Cloudnloud & Vijay -
+**About Cloudnloud & Vijay -**
 - :YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+
+
 - :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannamgcyber/) [Twitter](https://twitter.com/kannammal.g1) | [Instagram](https://www.instagram.com/kannammalg) | **[Facebook] (https://www.facebook.com/kannam.gk)
