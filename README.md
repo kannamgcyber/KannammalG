@@ -60,7 +60,7 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 - https://blog.cloudnloud.com/cyber-security-series-1
 
 
-## Blog - Cloudnloyd - Identity Access Management Series Blogs
+## Blog - Cloudnloud - Identity Access Management Series Blogs
 
 - https://blog.cloudnloud.com/series/iam-auth-deep-dive-series
 
