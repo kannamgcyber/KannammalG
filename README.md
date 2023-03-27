@@ -1,7 +1,7 @@
 I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; aka **Kannammal**. 
 
 
-Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Risk and Compliance Manager**.
+Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Senior Manager -Security and Resiliency Practice**.
 
 **A Little About my person and career history**
 
