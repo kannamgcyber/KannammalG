@@ -60,7 +60,7 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 
 ## Blogs: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://blog.cloudnloud.com/)**.
 
-**[𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲]**(https://www.linkedin.com/posts/kannamgcyber_zero-trust-securityepisode-1-activity-7056305220611452928-hoFW?utm_source=share&utm_medium=member_desktop)
+**[𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲]** **(https://www.linkedin.com/posts/kannamgcyber_zero-trust-securityepisode-1-activity-7056305220611452928-hoFW?utm_source=share&utm_medium=member_desktop)**
 
 **𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭**
 
