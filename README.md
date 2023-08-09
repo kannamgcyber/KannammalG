@@ -1,5 +1,8 @@
 I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; aka **Kannammal**. 
 
+**Award Winner Cybersecurity Excellence Award -Women Influencer of the Year 2023**
+
+**Community Leader -Security -Cloudnloud Tech Community**
 
 Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Senior Manager -Security and Resiliency Practice**.
 
@@ -33,12 +36,15 @@ In 2015 joined IBM as Technical Services lead - Identity Access Management as a 
 - ISO Audit and Certification
 - People Management
 - Team Management
+- Mentoring
+- Coaching
+- Technical Evaluations for Hackathons (Cybersecurity)
 
 **About me:** 
 
 I love to Learn new things be it small or big. Since my career start I have been supporting different team, multiple projects, different roles & responsibilities, My tasks or responsibilities may vary time to time however the thought of learning new things never vanished. I am a great Team player and influencer who influenced team for giving best out of them. I never said No to anything I try fail however never gave up. My main objective of my career is to Grow and Let my Team & Others Grow towards the Success..
 
-I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/company/cloudnloud/)** mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Core Team supporting his Vision & Mission.
+I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/company/cloudnloud/)** mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Leadership Team supporting his Vision & Mission.
 
 
 **About Cloudnloud & Vijay -**
@@ -54,20 +60,41 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 
 ## Blogs: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://blog.cloudnloud.com/)**.
 
+**𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲**
+
+https://www.linkedin.com/posts/kannamgcyber_zero-trust-securityepisode-1-activity-7056305220611452928-hoFW?utm_source=share&utm_medium=member_desktop
+
+**𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭**
+
+https://www.linkedin.com/posts/kannamgcyber_gcp-privilege-access-management-activity-7062453919146258432-X20S?utm_source=share&utm_medium=member_desktop
+
+
+**𝐒𝐨𝐚𝐫 (𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞)**
+
+https://www.linkedin.com/posts/kannamgcyber_connections-minibytes-minibytes-activity-7016072936394555392-s37r?utm_source=share&utm_medium=member_desktop
+
+**Important terms and definition in Cyber Security and Cyber Resiliency**
+https://www.linkedin.com/posts/kannamgcyber_connections-cybertechdave100daysofcyberchallenge-activity-7062097504556756992-QS8U?utm_source=share&utm_medium=member_desktop
+
+https://medium.com/cloudnloud/important-cyber-security-cyber-resilience-terms-and-its-definitions-276467dfe05c
+
+**Cyberhygiene**
+https://www.linkedin.com/posts/kannamgcyber_cyber-hygiene-activity-7056687773814050816-OGTc?utm_source=share&utm_medium=member_desktop
+
+https://medium.com/cloudnloud/cyber-hygiene-98f01e834001
+
+**Leadership**
+
+https://www.linkedin.com/posts/kannamgcyber_cybertechdave100daysofcyberchallenge-connections-activity-7021144831401885696-va9U?utm_source=share&utm_medium=member_desktop
 
 ## Blog: Cloudnloud - My Latest Blogs
-
 
 - https://blog.cloudnloud.com/cyber-security-series
 - https://blog.cloudnloud.com/cyber-security-series-1
 
-
 ## Blog - Cloudnloud - Identity Access Management Series Blogs
 
 - https://blog.cloudnloud.com/series/iam-auth-deep-dive-series
-
-
-
 
 ## Connect with Kannammal & Cloudnloud  
 <a href="https://github.com/cloudnloud" target="_blank">
