@@ -11,7 +11,33 @@ Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  
 I am born and brought up in chennai in a Middle class family, completed my schooling in Government Girls Higher Secondary School - Guduvancheri, did college BSC Computer Science in SDNB Vaishnava College - Chrompet and got placement in TCS as Graduate Trainee in 2008.
 
 Started my career in TCS as Service Desk agent and promoted as Service Desk lead in a year- joined HCL in 2011 in Identity Access Management Team and promoted as Shift Lead/Reporting Manager till my tenure in HCL (2014). Joined EMC2 in 2014 supporting in L2- Identity Access Management supporting complete IAM Team across Geo.
-In 2015 joined IBM as Technical Services lead - Identity Access Management as a SME. Moved to internal testing /review team in 2017 and now supporting Risk and Compliance Team Globally and promoted as Manager for Managing the Internal Control process Testing team and supporting Risk & Compliance Globally from India.
+In 2015 joined IBM as Technical Services lead - Identity Access Management as a SME. Moved to internal testing /review team in 2017 and supporting Security and Resiliency Team Globally and  Managing the Internal Control process Testing team.
+
+I hold multiple roles and responsibilities in my organisation from Senior Leader in Cybersecurity and Resiliency, Kyndryl Cultural Ambassador, Kyndryl Inclusive Network Active Member, Kyndryl Brand Promoter Roles which includes promoting and influencing Positive Impact of Kyndryl Culture across the Organisation.
+
+**Mentoring**: I have mentored several students and professionals on cybersecurity topics, including penetration testing, vulnerability assessment, and risk management. I have also helped them develop their skills in ethical hacking, threat intelligence, and incident response.
+**Coaching**: I have coached several cybersecurity teams in hackathons and competitions. I have helped them develop their solutions, prepare their presentations, and answer judges' questions.
+**Hosting technical meetups**: I have hosted several technical meetups on cybersecurity topics. These meetups have provided a forum for cybersecurity professionals to share their knowledge and experience, and to network with each other.
+**Evaluating hackathons**: I have served as a jury member for several hackathons on cybersecurity topics. I have evaluated the solutions developed by the teams, and I have provided feedback to the teams on how they can improve their solutions.
+
+**Women Tech Makers Ambassador**
+Women Tech Makers Ambassadors are volunteers who are passionate about increasing the participation of women in technology. They play a variety of roles, including:
+
+Promoting Women Tech Makers events and programs: Ambassadors help to spread the word about Women Tech Makers events and programs, such as hackathons, meetups, and workshops. They also help to recruit participants for these events.
+
+Mentoring and supporting women in tech: Ambassadors provide mentorship and support to women who are interested in pursuing careers in technology. They can offer guidance on education and career paths, as well as emotional support.
+
+Advocating for women in tech: Ambassadors advocate for women in tech by speaking out about the importance of diversity and inclusion in the tech industry. They also work to remove barriers that prevent women from entering and succeeding in tech.
+
+Building community: Ambassadors help to build community among women in tech by organizing meetups, workshops, and other events. They also create online spaces where women can connect and share their experiences.
+
+I am passionate about cybersecurity and I believe that it is important to give back to the community. I am committed to mentoring, coaching, and hosting technical meetups to help others learn about cybersecurity and to build their skills in this field. I am also committed to evaluating hackathons to help identify and promote the best cybersecurity solutions.
+
+I am proud of my community and volunteering activities on cybersecurity. I believe that these activities have helped to make a positive impact on the field of cybersecurity and on the community as a whole. I am committed to continuing my work in this area and to helping others learn about and to build their skills in cybersecurity.
+
+**Leadership Connect**
+
+Hosting Leadership Connect Show by Connecting with leaders around the World and getting insights and inspirations towards the Leadership Journey. This Show is Hosted by me through our **Cloudnloud Tech Community** and Broadcasted in our **Youtube Channel**
 
 **Technical Skills & Experiences (s):**
 
