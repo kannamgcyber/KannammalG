@@ -88,9 +88,10 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 
 **[𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲]** **(https://www.linkedin.com/posts/kannamgcyber_zero-trust-securityepisode-1-activity-7056305220611452928-hoFW?utm_source=share&utm_medium=member_desktop)**
 
-**𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭**
+ 
+- [𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭](https://www.linkedin.com/posts/kannamgcyber_gcp-privilege-access-management-activity-7062453919146258432-X20S?utm_source=share&utm_medium=member_desktop)
 
-https://www.linkedin.com/posts/kannamgcyber_gcp-privilege-access-management-activity-7062453919146258432-X20S?utm_source=share&utm_medium=member_desktop
+
 
 
 **𝐒𝐨𝐚𝐫 (𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞)**
