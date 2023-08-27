@@ -92,20 +92,18 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
  
 - [𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭](https://www.linkedin.com/posts/kannamgcyber_gcp-privilege-access-management-activity-7062453919146258432-X20S?utm_source=share&utm_medium=member_desktop)
 
+- [𝐒𝐨𝐚𝐫 (𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞)](https://www.linkedin.com/posts/kannamgcyber_connections-minibytes-minibytes-activity-7016072936394555392-s37r?utm_source=share&utm_medium=member_desktop)
+
+- [Important terms and definition in Cyber Security and Cyber Resiliency](https://www.linkedin.com/posts/kannamgcyber_connections-cybertechdave100daysofcyberchallenge-activity-7062097504556756992-QS8U?utm_source=share&utm_medium=member_desktop)
+
+- [Cyberhygiene](https://www.linkedin.com/posts/kannamgcyber_cyber-hygiene-activity-7056687773814050816-OGTc?utm_source=share&utm_medium=member_desktop)  
 
 
-
-**𝐒𝐨𝐚𝐫 (𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞)**
-
-https://www.linkedin.com/posts/kannamgcyber_connections-minibytes-minibytes-activity-7016072936394555392-s37r?utm_source=share&utm_medium=member_desktop
-
-**Important terms and definition in Cyber Security and Cyber Resiliency**
-https://www.linkedin.com/posts/kannamgcyber_connections-cybertechdave100daysofcyberchallenge-activity-7062097504556756992-QS8U?utm_source=share&utm_medium=member_desktop
 
 https://medium.com/cloudnloud/important-cyber-security-cyber-resilience-terms-and-its-definitions-276467dfe05c
 
-**Cyberhygiene**
-https://www.linkedin.com/posts/kannamgcyber_cyber-hygiene-activity-7056687773814050816-OGTc?utm_source=share&utm_medium=member_desktop
+
+
 
 https://medium.com/cloudnloud/cyber-hygiene-98f01e834001
 
