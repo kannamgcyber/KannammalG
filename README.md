@@ -72,21 +72,12 @@ I love to Learn new things be it small or big. Since my career start I have been
 
 I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/company/cloudnloud/)** mentored & guided by Vijay Balakrishnan. I am now in learning phase of various technologies under his guidance and proud to be in Trusted Leadership Team supporting his Vision & Mission.
 
-
-**About Cloudnloud & Vijay -**
-- YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
-
-
-- :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
-
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/kannamgcyber/) [Twitter](https://twitter.com/kannammal.g1) | [Instagram](https://www.instagram.com/kannammalg) | **[Facebook] (https://www.facebook.com/kannam.gk)
 
 **COMMUNITY CONTRIBUTIONS**
 
 
 ## Blogs: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://blog.cloudnloud.com/)**.
-
-**[]** **()**
 
 - [𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲](https://www.linkedin.com/posts/kannamgcyber_zero-trust-securityepisode-1-activity-7056305220611452928-hoFW?utm_source=share&utm_medium=member_desktop)
  
@@ -98,27 +89,20 @@ I am proud to be a part of **[Cloudnloud Communinity](https://www.linkedin.com/c
 
 - [Cyberhygiene](https://www.linkedin.com/posts/kannamgcyber_cyber-hygiene-activity-7056687773814050816-OGTc?utm_source=share&utm_medium=member_desktop)  
 
+- [securityarchitecture series](https://www.linkedin.com/pulse/security-architecture-series-1-kannammal-g)
 
-
-https://medium.com/cloudnloud/important-cyber-security-cyber-resilience-terms-and-its-definitions-276467dfe05c
-
-
-
-
-https://medium.com/cloudnloud/cyber-hygiene-98f01e834001
 
 **Leadership**
 
-https://www.linkedin.com/posts/kannamgcyber_cybertechdave100daysofcyberchallenge-connections-activity-7021144831401885696-va9U?utm_source=share&utm_medium=member_desktop
+- [Leadership Talk](https://www.linkedin.com/posts/kannamgcyber_cybertechdave100daysofcyberchallenge-connections-activity-7021144831401885696-va9U?utm_source=share&utm_medium=member_desktop)
 
 ## Blog: Cloudnloud - My Latest Blogs
 
-- https://blog.cloudnloud.com/cyber-security-series
-- https://blog.cloudnloud.com/cyber-security-series-1
-
-## Blog - Cloudnloud - Identity Access Management Series Blogs
-
-- https://blog.cloudnloud.com/series/iam-auth-deep-dive-series
+- [Cyber Hygiene](https://medium.com/cloudnloud/cyber-hygiene-98f01e834001)
+- [Cybersecurity Series](https://blog.cloudnloud.com/cyber-security-series)
+- [Cybersecurity Series](https://blog.cloudnloud.com/cyber-security-series-1)
+- [Cyber Resilience Terms and Definitions](https://medium.com/cloudnloud/important-cyber-security-cyber-resilience-terms-and-its-definitions-276467dfe05c)
+- [IAM Deep Dive Series](https://blog.cloudnloud.com/series/iam-auth-deep-dive-series)
 
 ## Connect with Kannammal & Cloudnloud  
 <a href="https://github.com/cloudnloud" target="_blank">
@@ -153,6 +137,11 @@ Mail - Kannammal - Kannam.87@gmail.com
 <br/>  
 
 
+**About Cloudnloud & Vijay -**
+- YouTube: Vijay Balan  is helping technology and mentoring videos via my **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+
+
+- :newspaper: He contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
