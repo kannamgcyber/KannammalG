@@ -4,6 +4,9 @@ I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; a
 
 **Award Winner Cybersecurity Excellence Award -Women Influencer of the Year 2023**
 
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-06-19%20at%205.35.31%20PM.jpeg" width="300"/>
+
+
 **Community Leader -Security -Cloudnloud Tech Community**
 
 Born and brought up in **Chennai** .Currently working in Kyndryl India Pvt Ltd  as an **Senior Manager -Security and Resiliency Practice**.
@@ -19,31 +22,46 @@ I hold multiple roles and responsibilities in my organisation from Senior Leader
 
 **Mentoring**: I have mentored several students and professionals on cybersecurity topics, including penetration testing, vulnerability assessment, and risk management. I have also helped them develop their skills in ethical hacking, threat intelligence, and incident response.
 
-<img src="https://github.com/KannammalG/Photos/blob/main/Copy%20of%20vijayabalan-youtube%20(1).jpg" width="300"/>
+**Cybersafe Foundations Mentor -Judge**
+
+<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
 
 **Coaching**: I have coached several cybersecurity teams in hackathons and competitions. I have helped them develop their solutions, prepare their presentations, and answer judges' questions.
 
+<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/New-Kannammal-youtube%20(8).jpg" width="300"/>
 
-**Guest Speaker**
+**Guest Speaker at Colleges**
+
 <img src="https://github.com/KannammalG/Photos/blob/main/IMG_3434.JPG" width="300"/>
-
+<img src="https://github.com/KannammalG/Photos/blob/main/IMG_3437.JPG" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/IMG_3439.JPG" width="300"/>
 
 **Hosting technical meetups**: I have hosted several technical meetups on cybersecurity topics. These meetups have provided a forum for cybersecurity professionals to share their knowledge and experience, and to network with each other.
 
+**Internation Womens Day Event - Women tech Makers Event**
+
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-03-28%20at%2010.20.14%20PM.jpeg" width="300"/>
+
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-04-01%20at%201.26.28%20PM%20(1)%20(1).jpeg" width="300"/>
+
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-04-01%20at%201.26.28%20PM%20(2).jpeg" width="300"/>
 
 
 **Evaluating hackathons**: I have served as a jury member for several hackathons on cybersecurity topics. I have evaluated the solutions developed by the teams, and I have provided feedback to the teams on how they can improve their solutions.
 
+
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-29%20at%2010.05.42%20PM.jpeg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-08%20at%208.36.34%20PM.jpeg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-09%20at%2010.41.34%20PM.jpeg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-09%20at%2010.41.44%20PM.jpeg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-11%20at%202.15.57%20PM.jpeg" width="300"/>
+
 **Women Tech Makers Ambassador**
-Women Tech Makers Ambassadors are volunteers who are passionate about increasing the participation of women in technology. They play a variety of roles, including:
 
-Promoting Women Tech Makers events and programs: Ambassadors help to spread the word about Women Tech Makers events and programs, such as hackathons, meetups, and workshops. They also help to recruit participants for these events.
-
-Mentoring and supporting women in tech: Ambassadors provide mentorship and support to women who are interested in pursuing careers in technology. They can offer guidance on education and career paths, as well as emotional support.
-
-Advocating for women in tech: Ambassadors advocate for women in tech by speaking out about the importance of diversity and inclusion in the tech industry. They also work to remove barriers that prevent women from entering and succeeding in tech.
-
-Building community: Ambassadors help to build community among women in tech by organizing meetups, workshops, and other events. They also create online spaces where women can connect and share their experiences.
 
 I am passionate about cybersecurity and I believe that it is important to give back to the community. I am committed to mentoring, coaching, and hosting technical meetups to help others learn about cybersecurity and to build their skills in this field. I am also committed to evaluating hackathons to help identify and promote the best cybersecurity solutions.
 
@@ -52,6 +70,8 @@ I am proud of my community and volunteering activities on cybersecurity. I belie
 **Leadership Connect**
 
 Hosting Leadership Connect Show by Connecting with leaders around the World and getting insights and inspirations towards the Leadership Journey. This Show is Hosted by me through our **Cloudnloud Tech Community** and Broadcasted in our **Youtube Channel**
+
+<img src="https://github.com/KannammalG/Photos/blob/main/New-Kannammal-youtube%20(8).jpg" width="300"/>
 
 **Technical Skills & Experiences (s):**
 
