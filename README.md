@@ -1,5 +1,7 @@
 I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; aka **Kannammal**. 
 
+<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-08%20at%208.19.14%20PM%20(1).jpeg" width="300"/>
+
 **Award Winner Cybersecurity Excellence Award -Women Influencer of the Year 2023**
 
 **Community Leader -Security -Cloudnloud Tech Community**
