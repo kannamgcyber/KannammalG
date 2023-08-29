@@ -1,6 +1,6 @@
 I'm **[Kannammal Gopalakrishnan](https://www.linkedin.com/in/kannamgcyber)** ; aka **Kannammal**. 
 
-<img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-08%20at%208.19.14%20PM%20(1).jpeg" width="300"/>
+<img src="https://github.com/KannammalG/Photos/blob/main/Copy%20of%20vijayabalan-youtube%20(1).jpg" width="300"/>
 
 **Award Winner Cybersecurity Excellence Award -Women Influencer of the Year 2023**
 
@@ -18,8 +18,20 @@ In 2015 joined IBM as Technical Services lead - Identity Access Management as a 
 I hold multiple roles and responsibilities in my organisation from Senior Leader in Cybersecurity and Resiliency, Kyndryl Cultural Ambassador, Kyndryl Inclusive Network Active Member, Kyndryl Brand Promoter Roles which includes promoting and influencing Positive Impact of Kyndryl Culture across the Organisation.
 
 **Mentoring**: I have mentored several students and professionals on cybersecurity topics, including penetration testing, vulnerability assessment, and risk management. I have also helped them develop their skills in ethical hacking, threat intelligence, and incident response.
+
+<img src="https://github.com/KannammalG/Photos/blob/main/Copy%20of%20vijayabalan-youtube%20(1).jpg" width="300"/>
+
 **Coaching**: I have coached several cybersecurity teams in hackathons and competitions. I have helped them develop their solutions, prepare their presentations, and answer judges' questions.
+
+
+**Guest Speaker**
+<img src="https://github.com/KannammalG/Photos/blob/main/IMG_3434.JPG" width="300"/>
+
+
 **Hosting technical meetups**: I have hosted several technical meetups on cybersecurity topics. These meetups have provided a forum for cybersecurity professionals to share their knowledge and experience, and to network with each other.
+
+
+
 **Evaluating hackathons**: I have served as a jury member for several hackathons on cybersecurity topics. I have evaluated the solutions developed by the teams, and I have provided feedback to the teams on how they can improve their solutions.
 
 **Women Tech Makers Ambassador**
