@@ -60,6 +60,7 @@ I hold multiple roles and responsibilities in my organisation from Senior Leader
 
 **Women Tech Makers Ambassador**
 
+<img src="https://github.com/KannammalG/Photos/blob/main/Copy%20of%20%5BMAKE%20A%20COPY%5D%20WTM%20Ambassador%20social%20overlay.jpg" width="300"/>
 
 I am passionate about cybersecurity and I believe that it is important to give back to the community. I am committed to mentoring, coaching, and hosting technical meetups to help others learn about cybersecurity and to build their skills in this field. I am also committed to evaluating hackathons to help identify and promote the best cybersecurity solutions.
 
