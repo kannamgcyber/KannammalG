@@ -28,12 +28,6 @@ I hold multiple roles and responsibilities in my organisation from Senior Leader
 
 **Coaching**: I have coached several cybersecurity teams in hackathons and competitions. I have helped them develop their solutions, prepare their presentations, and answer judges' questions.
 
-<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
-<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
-<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
-<img src="https://github.com/KannammalG/Photos/blob/main/Kannammal%20Gopalakrishnan.jpg" width="300"/>
-<img src="https://github.com/KannammalG/Photos/blob/main/New-Kannammal-youtube%20(8).jpg" width="300"/>
-
 **Guest Speaker at Colleges**
 
 <img src="https://github.com/KannammalG/Photos/blob/main/IMG_3434.JPG" width="300"/>
@@ -55,9 +49,13 @@ I hold multiple roles and responsibilities in my organisation from Senior Leader
 
 
 <img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-29%20at%2010.05.42%20PM.jpeg" width="300"/>
+
 <img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-08%20at%208.36.34%20PM.jpeg" width="300"/>
+
 <img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-09%20at%2010.41.34%20PM.jpeg" width="300"/>
+
 <img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-09%20at%2010.41.44%20PM.jpeg" width="300"/>
+
 <img src="https://github.com/KannammalG/Photos/blob/main/WhatsApp%20Image%202023-08-11%20at%202.15.57%20PM.jpeg" width="300"/>
 
 **Women Tech Makers Ambassador**
